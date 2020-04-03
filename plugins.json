@@ -8,7 +8,7 @@
     "releases": [
       {
         "date": "2020-04-02",
-        "sha512sum": "232872aa00e7d2742c43edc87ac32917f3c569d30fbaa6bd546389d43f9ba3116ab8e94de44c477ade371968d098c23ee28916a81bce48be9dda425d010bc9df",
+        "sha512sum": "232872AA00E7D2742C43EDC87AC32917F3C569D30FBAA6BD546389D43F9BA3116AB8E94DE44C477ADE371968D098C23EE28916A81BCE48BE9DDA425D010BC9DF",
         "version": "0.0.1",
         "url": "https://github.com/kehphin/plugins-release/blob/master/release/runescape2-0.0.6.jar?raw=true",
         "requires": "0.0.1"
