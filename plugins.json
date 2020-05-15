@@ -1,1 +1,50 @@
-[{"projectUrl":"https://discord.gg/OpenOSRS","provider":"Kehphin","name":"Grand Exchange","description":"Display information about GE","id":"grandexchange-plugin","releases":[{"date":"2020-04-03","sha512sum":"7b628321cd3b61bed70aa28d3ffb9a4b7746d1974a71eb1624ea3a5ac7344bd63e3ea814f0be246680eb8fbcc9429974ff6c6620de0b7a9a567f048e1547a425","version":"0.0.1","url":"https://github.com/kehphin/plugins-release/blob/master/release/grandexchange-0.0.1.jar?raw=true","requires":"0.0.1"}]},{"projectUrl":"https://discord.gg/OpenOSRS","provider":"Kehphin","name":"Varrock Planker","description":"Makes Planks","id":"varrockplanker-plugin","releases":[{"date":"2020-05-14","sha512sum":"639717fb87c242a411f851d2127682ccd97173d9df02156caddeb96ce59a8cb768c148d3d75e67db959dc19b3b5ab92aa9eb8b00582b87e22dab4413fc931a41","version":"0.0.2","url":"https://github.com/kehphin/plugins-release/blob/master/release/VarrockPlanker-0.0.2.jar?raw=true","requires":"0.0.1"}]}]
+[
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "Kehphin",
+    "name": "Grand Exchange",
+    "description": "Display information about GE",
+    "id": "grandexchange-plugin",
+    "releases": [
+      {
+        "date": "2020-04-03",
+        "sha512sum": "7b628321cd3b61bed70aa28d3ffb9a4b7746d1974a71eb1624ea3a5ac7344bd63e3ea814f0be246680eb8fbcc9429974ff6c6620de0b7a9a567f048e1547a425",
+        "version": "0.0.1",
+        "url": "https://github.com/kehphin/plugins-release/blob/master/release/grandexchange-0.0.1.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "Kehphin",
+    "name": "Varrock Planker",
+    "description": "Makes Planks",
+    "id": "varrockplanker-plugin",
+    "releases": [
+      {
+        "date": "2020-05-14",
+        "sha512sum": "639717fb87c242a411f851d2127682ccd97173d9df02156caddeb96ce59a8cb768c148d3d75e67db959dc19b3b5ab92aa9eb8b00582b87e22dab4413fc931a41",
+        "version": "0.0.2",
+        "url": "https://github.com/kehphin/plugins-release/blob/master/release/VarrockPlanker-0.0.2.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "Kehphin",
+    "name": "Draynor Chopper",
+    "description": "Chops Trees at Draynor",
+    "id": "draynorchopper-plugin",
+    "releases": [
+      {
+        "date": "2020-05-15",
+        "sha512sum": "7cfca57adb31fe2c04f95ba5521168ea9a832bb7b4bd5c2f5d277e5673e7edfb6565a349de9a795abc301de2d939604906dbb86ffe330bd3b282de969a5d846d",
+        "version": "0.0.1",
+        "url": "https://github.com/kehphin/plugins-release/blob/master/release/DraynorChopper-0.0.1.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  }
+]
