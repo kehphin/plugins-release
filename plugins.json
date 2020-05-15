@@ -34,7 +34,7 @@
         "sha512sum": "639717fb87c242a411f851d2127682ccd97173d9df02156caddeb96ce59a8cb768c148d3d75e67db959dc19b3b5ab92aa9eb8b00582b87e22dab4413fc931a41",
         "version": "0.0.2",
         "url": "https://github.com/kehphin/plugins-release/blob/master/release/VarrockPlanker-0.0.2.jar?raw=true",
-        "requires": "0.0.2"
+        "requires": "0.0.1"
       }
     ]
   }
