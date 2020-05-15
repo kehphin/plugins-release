@@ -1,1 +1,41 @@
-[{"projectUrl":"https://discord.gg/OpenOSRS","provider":"Kehphin","name":"Grand Exchange","description":"Display information about GE","id":"grandexchange-plugin","releases":[{"date":"2020-04-03","sha512sum":"7b628321cd3b61bed70aa28d3ffb9a4b7746d1974a71eb1624ea3a5ac7344bd63e3ea814f0be246680eb8fbcc9429974ff6c6620de0b7a9a567f048e1547a425","version":"0.0.1","url":"https://github.com/kehphin/plugins-release/blob/master/release/grandexchange-0.0.1.jar?raw=true","requires":"0.0.1"}]},{"projectUrl":"https://discord.gg/OpenOSRS","provider":"OpenOSRS","name":"Varrock Planker","description":"Makes Planks","id":"varrockplanker-plugin","releases":[{"date":"2020-05-14","sha512sum":"7a19b7a3b235c221e3a30eb836b7aa1161825e3c66f6ba59a88f36bde9ccdc9c71b6dcad6b1d976fdfa24f7ae182ebb8f4b79bc51dffcb5b58b81886c759de32","version":"0.0.1","url":"https://github.com/kehphin/plugins-release/blob/master/release/VarrockPlanker-0.0.1.jar?raw=true","requires":"0.0.1"}]}]
+[
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "Kehphin",
+    "name": "Grand Exchange",
+    "description": "Display information about GE",
+    "id": "grandexchange-plugin",
+    "releases": [
+      {
+        "date": "2020-04-03",
+        "sha512sum": "7b628321cd3b61bed70aa28d3ffb9a4b7746d1974a71eb1624ea3a5ac7344bd63e3ea814f0be246680eb8fbcc9429974ff6c6620de0b7a9a567f048e1547a425",
+        "version": "0.0.1",
+        "url": "https://github.com/kehphin/plugins-release/blob/master/release/grandexchange-0.0.1.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "Kehphin",
+    "name": "Varrock Planker",
+    "description": "Makes Planks",
+    "id": "varrockplanker-plugin",
+    "releases": [
+      {
+        "date": "2020-05-14",
+        "sha512sum": "7a19b7a3b235c221e3a30eb836b7aa1161825e3c66f6ba59a88f36bde9ccdc9c71b6dcad6b1d976fdfa24f7ae182ebb8f4b79bc51dffcb5b58b81886c759de32",
+        "version": "0.0.1",
+        "url": "https://github.com/kehphin/plugins-release/blob/master/release/VarrockPlanker-0.0.1.jar?raw=true",
+        "requires": "0.0.1"
+      },
+      {
+        "date": "2020-05-14",
+        "sha512sum": "639717fb87c242a411f851d2127682ccd97173d9df02156caddeb96ce59a8cb768c148d3d75e67db959dc19b3b5ab92aa9eb8b00582b87e22dab4413fc931a41",
+        "version": "0.0.2",
+        "url": "https://github.com/kehphin/plugins-release/blob/master/release/VarrockPlanker-0.0.2.jar?raw=true",
+        "requires": "0.0.2"
+      }
+    ]
+  }
+]
