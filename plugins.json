@@ -56,9 +56,9 @@
     "releases": [
       {
         "date": "2020-05-19",
-        "sha512sum": "4c9dbcfd54724ea233a6edeb5a1776556def9ffd75637fe14509b8642266ec7715d840de51a83d6f5fa3431eb819e07a99146c6517a93473509d37670be57333",
-        "version": "0.0.1",
-        "url": "https://github.com/kehphin/plugins-release/blob/master/release/HosidiusPlanker-0.0.1.jar?raw=true",
+        "sha512sum": "395535d920d40e447b554589740976daf3386ed7983cf1b3f1043b3edae19049795ed594680f3a24e27eb4e4b84d6e238ea1cded97ad28a07dec6666661729b5",
+        "version": "0.0.2",
+        "url": "https://github.com/kehphin/plugins-release/blob/master/release/HosidiusPlanker-0.0.2.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
