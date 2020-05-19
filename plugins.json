@@ -46,5 +46,21 @@
         "requires": "0.0.1"
       }
     ]
+  },
+  {
+    "projectUrl": "https://discord.gg/OpenOSRS",
+    "provider": "Kehphin",
+    "name": "Hosidius Planker",
+    "description": "Planks at Woodcutting Guild",
+    "id": "hosidiusplanker-plugin",
+    "releases": [
+      {
+        "date": "2020-05-19",
+        "sha512sum": "4c9dbcfd54724ea233a6edeb5a1776556def9ffd75637fe14509b8642266ec7715d840de51a83d6f5fa3431eb819e07a99146c6517a93473509d37670be57333",
+        "version": "0.0.1",
+        "url": "https://github.com/kehphin/plugins-release/blob/master/release/HosidiusPlanker-0.0.1.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
   }
 ]
